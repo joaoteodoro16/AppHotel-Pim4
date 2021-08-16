@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         System.out.println("teste");
+        System.out.println("TESTE 2 BRANCH");
+        System.out.println("TESTE 3 BRANCH");
 
     }
 
