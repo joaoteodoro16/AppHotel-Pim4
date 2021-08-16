@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intentRegistrar);
             }
         });
+        System.out.println("teste");
 
     }
 
