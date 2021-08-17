@@ -24,8 +24,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         configuraBotaoLogin();
         configuraBotaoRegistrarse();
-        System.out.println("TESTE1");
-        System.out.println("TESTE22222");
+
     }
 
     private void configuraBotaoLogin(){
@@ -50,8 +49,11 @@ public class MainActivity extends AppCompatActivity {
         });
 
         System.out.println("TESTEwdwdwdwdwdwdw");
+        System.out.println("TESTEwdwdwdwdwdwdw");
+        System.out.println("TESTEwdwdwdwdwdwdw");
+        System.out.println("TESTEwdwdwdwdwdwdw");
+        System.out.println("TESTEwdwdwdwdwdwdw");
+        System.out.println("TESTEwdwdwdwdwdwdw");
 
     }
-
-
 }
