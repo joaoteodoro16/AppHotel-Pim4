@@ -48,12 +48,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        System.out.println("TESTEwdwdwdwdwdwdw");
-        System.out.println("TESTEwdwdwdwdwdwdw");
-        System.out.println("TESTEwdwdwdwdwdwdw");
-        System.out.println("TESTEwdwdwdwdwdwdw");
-        System.out.println("TESTEwdwdwdwdwdwdw");
-        System.out.println("TESTEwdwdwdwdwdwdw");
-
     }
+
+    private void novoTesteBranch(){
+        System.out.println("TESTANDO BRANCH");
+    }
+
 }
